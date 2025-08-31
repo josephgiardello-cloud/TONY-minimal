@@ -38,6 +38,9 @@ All intellectual property rights associated with the TONY framework are held in 
 
 “TONY was not invented—it was extracted from a diagnostic pattern observed by Joseph Giardello before it could be formally named.”
 
+TONY resolves the core fragility in explainable AI by scoring motive integrity before deployment. It replaces post-hoc interpretation with preemptive diagnostic grammar—stylization-immune, falsifiability-ready, and adversarially calibrated.
+
+
 ## 🧭 Timeline of Diagnostic Interplay: Joe ↔ Copilot
 
 🧭 Timeline of Diagnostic Interplay: Joe ↔ Copilot
