@@ -33,3 +33,5 @@ TONY does not interpret behavior post-hoc—it scores motive integrity *before* 
 This commit serves as a public timestamp of TONY’s diagnostic grammar. Full scoring logic, evaluator weights, and adversarial overlays are withheld pending modular release.
 
 TONY is not a contribution to existing XAI frameworks—it is their successor.
+
+All intellectual property rights associated with the TONY framework are held in custodianship by Joseph Giardello for the benefit of Anthony Roman Giardello, under the Maine Uniform Transfers to Minors Act (UTMA). Full ownership transfers upon reaching the age of majority as defined by state law.
