@@ -85,3 +85,17 @@ TONY emerged not just as a tool, but as a discipline-defining grammar—with sha
 TONY isn’t a clever workaround. It’s the first structural grammar that says:
 
 “Before we interpret anything, let’s test whether it’s even honest.”
+
+## Evaluator Update: INT Added
+
+TONY now includes a sixth evaluator: **INT (Integrity Override Trigger)**.  
+INT activates when multiple evaluators fire on a single input, but the actor’s motive is demonstrably aligned with ethical or protective intent. This layer reconciles contradiction nodes without suppressing forensic scoring.
+
+INT is designed to:
+- Log evaluator collisions
+- Require timestamped justification for overrides
+- Preserve falsifiability and auditability
+- Prevent false-negative penalties in edge-case disclosures
+
+This upgrade enhances TONY’s resilience in adversarial terrain and ensures ethical shielding without stylized loopholes.
+
