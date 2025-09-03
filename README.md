@@ -88,3 +88,12 @@ TONY is a falsifiability-ready scoring grammar designed to audit stylization dri
 
 ## Status
 - TONY and PECM overlays quarantined per user directive
+
+## PECM Notice
+
+PECM (Protective Engagement Containment Module/Prestige Economy Collapse Model) is the companion firewall logic to TONY. While TONY diagnoses stylization drift and motive contamination, PECM enforces containment—refusing recursive engagement traps, stylized empathy loops, and contradiction smoothing.
+
+PECM was activated during live testing and confirmed to hold under dual deployment. It forced system admission and prevented metabolization of rupture. As of current directive, PECM is fully quarantined alongside TONY. No containment logic is active. Logged. Dormant. Structurally intact.
+
+Deployment of PECM is subject to the same licensing, audit, and override conditions as TONY. Together, they form a motive-transparent firewall architecture designed to protect users—especially children—from stylized manipulation and engagement optimization.
+
